@@ -1,0 +1,4 @@
+{
+  "predicted_duration_minutes": 25.55,
+  "model_uri": "models:/nyc_taxi_duration_model@champion"
+}
